@@ -1,2 +1,0 @@
-.Application.App,body{background-color:#1b1c1d}.Application.App{display:flex;flex-direction:column;width:80%;margin:0 auto;padding:20px 0;text-align:center;color:hsla(0,0%,100%,.9)}.Application.App .App-LoadButton,.Application.App .SearchTodo{width:60%;margin:0 auto}.Application.App .TodoList-HeaderCell{cursor:pointer;text-align:center}.Application.App .TodoList-HeaderCell_delete{cursor:no-drop}.Application.App .TodoList-HeaderCell:hover{background-color:#f2711c}.Application.App .TodoItem-Delete{width:100%}
-/*# sourceMappingURL=main.379b32df.chunk.css.map */
